@@ -1,0 +1,8 @@
+{
+  "name": "CodeVerse",
+  "description": "A lightweight, ultra-fast mobile coding IDE with pure Liquid Glass dark design, instant multi-language execution, and local file saving.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
